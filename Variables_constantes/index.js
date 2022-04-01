@@ -55,6 +55,6 @@ function calcular(){
 
     const area = (base * altura) / 2
 
-  alert(area)
+    alert(area)
 
 }
